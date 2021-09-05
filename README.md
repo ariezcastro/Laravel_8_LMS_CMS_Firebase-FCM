@@ -1,1 +1,10 @@
-# Laravel_8_LMS_CMS_Firebase-FCM
+# LearningManagementSystem-CMS-Laravel-Firebase-FCM
+Learning Management System
+
+Installation:
+
+Open Command Prompt
+
+-npm install
+
+And your good to go.
